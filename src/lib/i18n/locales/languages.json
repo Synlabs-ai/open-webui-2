@@ -88,6 +88,10 @@
 		"title": "Korean (한국어)"
 	},
 	{
+		"code": "kk-KZ",
+		"title": "Kazakh (Kazakhstan)"
+	},
+	{
 		"code": "lt-LT",
 		"title": "Lithuanian (Lietuvių)"
 	},
@@ -146,6 +150,10 @@
 	{
 		"code": "tk-TW",
 		"title": "Turkmen (Türkmençe)"
+	},
+	{
+		"code": "uz-UZ",
+		"title": "Uzbek (Latin) (Uzbekistan)"
 	},
 	{
 		"code": "uk-UA",
